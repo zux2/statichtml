@@ -1,7 +1,7 @@
 .tilte{
     font-size: 0.16rem;
     text-align: center;
-    line-height: 0.8rem;
+    line-height: 0.3rem;
 }
 .data{
     font-size: 0.105rem;
@@ -10,13 +10,13 @@
 }
 .jianjie{
     font-size: 0.12rem;
-    line-height: 0.75rem;
+    line-height: 0.3rem;
 }
 .des{
     font-size: 0.105rem;
-    line-height: 0.4rem;
+    line-height: 0.2rem;
 }
 .titleX{
     font-size: 0.105rem;
-    line-height: 0.4rem;
+    line-height: 0.2rem;
 }

@@ -9,7 +9,7 @@ $(document).ready(function(){
 		if (deviceWidth > deviceHeight) {
 			/*alert('亲 竖屏才是正确浏览方式');*/
 		}
-		document.documentElement.style.fontSize = minLenth / 7.5 + 'px'; alert(deviceWidth)
+                  document.documentElement.style.fontSize = minLenth / 27.5 + 'px'; alert(deviceWidth);
 	}
 	resizeFontSize();
 })
